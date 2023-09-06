@@ -56,8 +56,8 @@ $('.slider').slick({
     speed: 300,
     slidesToShow: 3,
     slidesToScroll: 1,
-  /*  autoplay: true,
-    autoplaySpeed: 2000,   */ 
+    autoplay: true,
+    autoplaySpeed: 2000,    
     responsive: [
       {
         breakpoint: 1024,
@@ -96,8 +96,8 @@ $('.slider').slick({
     slidesToShow: 4,
     slidesToScroll: 1,
  /*   autoplay: true,
-    autoplaySpeed: 2000,  
-  */
+    autoplaySpeed: 2000,   */
+  
 
     responsive: [
       {
